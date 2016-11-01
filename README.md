@@ -4,19 +4,19 @@ There are many food choices on campus at UH Manoa and knowing what each place se
 ## Below are a few examples of our intended web pages
 
 ### Public Landing Page
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/public-landing-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/public-landing-page.JPG">
 
 ### User Home Page
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/user-home-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/user-home-page.JPG">
 
 ### User Profile Page
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/user-profile.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/user-profile.JPG">
 
 ### Vendor Page
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/vendor-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/vendor-page.JPG">
 
 ### List of all vendors
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/list-of-vendors.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/list-of-vendors.JPG">
 
 ### Admin Edit Profile Page
-<img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/admin-profile-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/admin-profile-page.JPG">
