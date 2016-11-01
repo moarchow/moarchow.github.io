@@ -1,7 +1,7 @@
 # About Moar Chow
 There are many food choices on campus at UH Manoa and knowing what each place serves and when can be confusing. Moar Chow will allow you to browse all the menus on campus, search by cuisine type, and view the location of all the food trucks from day to day. Users will also be able to rate/review dishes, save their favorite cuisines, and get notifications when their favorite dish is available.
 
-## Below are a few example's of our intended web pages
+## Below are a few examples of our intended web pages
 
 ### Public Landing Page
 <img class="ui medium right floated image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/public-landing-page.JPG">
