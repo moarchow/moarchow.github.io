@@ -6,6 +6,9 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + Daily food truck locations and hours of operation
  + Rate and review dishes
  + User profiles that allow saving favorite dishes and specifying diet (Vegatarians, Vegan...)
+
+## Milestone
+ + https://github.com/moarchow/moarchow/projects/1
  
 # Designers
  + **Michael Mangrobang** - Computer Science Undergraduate
