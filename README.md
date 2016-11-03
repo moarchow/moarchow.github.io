@@ -29,7 +29,7 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + Fridays at Noon
  
 ## Logo Drafts
-<img class="ui medium image" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/need%20real%20food.jpg?raw=true">
+<img class="ui medium image" style="height: 200px;" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/need%20real%20food.jpg?raw=true">
 
 ## Web page examples
 
