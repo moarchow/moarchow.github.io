@@ -3,14 +3,14 @@ There are many food choices on campus at UH Manoa and knowing what each place se
 
 # Completed
  + UHM CAS Login
- + Website layout and site map
+ + Website general layout
  + Landing Page
 
 # In Progress
  + Google Maps 
  
 # Planned
- + Rate and review Vendors
+ + Rate and review vendors
  + User profiles that allow saving favorite vendors and dishes
 
 # Meteor Deployment
@@ -42,18 +42,25 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + Fridays at Noon
  
 ## Logo Drafts
-<img class="ui medium image" style="height: 200px;" src="https://github.com/moarchow/moarchow.github.io/blob/master/images/need%20real%20food.jpg?raw=true">
+<img class="ui medium image" style="height: 200px;" src="https://raw.githubusercontent.com/moarchow/moarchow/master/app/public/images/need-real-food.png">
 
 ## Web page examples
 
-### Public Landing Page
-<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/public-landing-page.JPG">
+### Landing Page
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/homepage1.png">
 
-### User Home Page
-<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/user-home-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/homepage2.png">
+
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/homepage3.png">
+
+### Home Page
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/home.png">
+
+### Vendors Page
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/vendors.png">
 
 ### Vendor Page
-<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/vendor-page.JPG">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/vendor.png">
 
-### List of all vendors
-<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/list-of-vendors.JPG">
+### Map
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/map.png">
