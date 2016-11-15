@@ -13,6 +13,9 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + Rate and review Vendors
  + User profiles that allow saving favorite vendors and dishes
 
+# Meteor Deployment
+ + http://moarchow.meteorapp.com/
+ 
 ## Milestones
  + https://github.com/moarchow/moarchow/projects/1
  + https://github.com/moarchow/moarchow/projects/2
