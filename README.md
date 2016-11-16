@@ -38,6 +38,6 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + [Kasey Hagi](https://kaseyhagi.github.io/)
  + [Ryan Theriot](https://rctheriot.github.io/)
  
- ## Meteor Deployment
+## Meteor Deployment
  + http://moarchow.meteorapp.com/
  
