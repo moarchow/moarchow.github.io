@@ -1,4 +1,4 @@
-<a href="http://moarchow.meteorapp.com/"><img style="max-width: 20%;" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/need-real-food.png"></a>
+<a href="http://moarchow.meteorapp.com/"><img style="max-width: 20%;" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/need-real-food1.png"></a>
 
 # About
 There are many food choices on campus at UH Manoa and knowing what each place serves and when can be confusing. Moar Chow will allow you to browse all the menus on campus, view the location restaurants and food trucks. Users will also be able to rate/review vendors and save their favorite dishes.
