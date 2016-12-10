@@ -3,6 +3,9 @@
 # About
 There are many food choices on campus at UH Manoa and knowing what each place serves and when can be confusing. Moar Chow will allow UH students and faculty to browse all the menus on campus, view the location of vendors, rate vendors, save their favorite vendors, and search for chow by cusine type.
 
+## Meteor Deployment
+ + http://moarchow.meteorapp.com/
+
 # Guided Tour
 ## Landing Page
 ##### Here you can log in with your UH CAS login information by clicking the Log In button.
@@ -27,7 +30,7 @@ There are many food choices on campus at UH Manoa and knowing what each place se
 
 ## Map
 ##### This page shows all the vendors on campus on a Google Map. The tab for this page is located in the top menu.
-<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/map.jpg">
+<img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/map.png">
 
 ## Vendor Page
 #### Each vendor has their own that shows you the vendor's rating, description, location, hours of operation, and menu. 
@@ -49,7 +52,4 @@ There are many food choices on campus at UH Manoa and knowing what each place se
  + [William Siu](https://williamycsiu.github.io/)
  + [Kasey Hagi](https://kaseyhagi.github.io/)
  + [Ryan Theriot](https://rctheriot.github.io/)
- 
-## Meteor Deployment
- + http://moarchow.meteorapp.com/
  
