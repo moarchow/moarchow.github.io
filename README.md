@@ -1,20 +1,20 @@
 <a href="http://moarchow.meteorapp.com/"><img style="max-width: 20%;" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/need-real-food1.png"></a>
 
 # About
-There are many food choices on campus at UH Manoa and knowing what each place serves and when can be confusing. Moar Chow will allow UH students and faculty to browse all the menus on campus, view the location of vendors, rate vendors, save their favorite vendors, and search for chow by cusine type.
+There are many food choices on UH Manoa's campus and knowing what each vendor serves and when can be confusing. Moar Chow will allow UH students and faculty to browse all the menus on campus, view vendor locations, rate vendors, save their favorite vendors, and search for food by cusine type.
 
 ## Meteor Deployment
  + http://moarchow.meteorapp.com/
 
 # Guided Tour
 ## Landing Page
-##### Here you can log in with your UH CAS login information by clicking the Log In button.
+##### First you have log in with your UH CAS login information by clicking the Log In button.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/landing.jpg">
 
 ##### Once you have clicked the log in you will have to accept Moar Chow's Terms and Conditions.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/terms.jpg">
 
-##### After you have accepted the Terms and Condtitions you can login with your UH CAS login information.
+##### After you have accepted the Terms and Condtitions you can now login with your UH CAS login information.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/login.jpg">
 
 ## Home Page
@@ -29,12 +29,12 @@ There are many food choices on campus at UH Manoa and knowing what each place se
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/vendorlist.png">
 
 ## Map
-##### This page shows all the vendors on campus on a Google Map. The tab for this page is located in the top menu.
+##### This page shows the location for all the vendors. The tab for this page is located in the top menu.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/map.png">
 
 ## Vendor Page
-#### Each vendor has their own that shows you the vendor's rating, description, location, hours of operation, and menu. 
-#### By click the Add to Favorites button located at the top you can add this vendor to your My Favorite Chow Spots list on your homepage.
+#### Each vendor has their own page that shows you the vendor's rating, description, location, hours of operation, and menu. 
+#### The Add to Favorites button located below the vendor's name will add this vendor to your 'My Favorite Chow Spots' list on your homepage.
 #### You can also leave a rating for the vendor on the bottom left of the page.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/vendorhome.png">
 
