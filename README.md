@@ -7,37 +7,40 @@ There are many food choices on UH Manoa's campus and knowing what each vendor se
 
 # Guided Tour
 ## Landing Page
-##### First you have log in with your UH CAS login information by clicking the Log In button.
+##### The landing page allows users to login to Moar Chow with their UH CAS Login. 
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/landing.jpg">
 
-##### Once you have clicked the log in you will have to accept Moar Chow's Terms and Conditions.
+##### After clicking the log in button users will have to accept Moar Chow's Terms and Conditions.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/terms.jpg">
 
-##### After you have accepted the Terms and Condtitions you can now login with your UH CAS login information.
+##### After accepting the Terms and Condtitions users can login with their UH CAS login information.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/login.jpg">
 
 ## Home Page
-##### Once logged in you are taken to your home page. The tab for this page is located in the top menu.
-##### My Favorite Chow Spots - Listed here are all your favorite chow spots. You can see if the vendor is open (a green dot means open a red dot means closed), what rating you have given the vendor, and you can unfavorite the vendor.
-##### Search For Chow - Here you can search for new chow spots by cuisine types. Here we can see someone is searching for Coffee and listed below are all the spots that serve coffee. 
+##### The home page is the first page users see once logging into Moar Chow. The tab for this page is located in the top menu. Here users can see their saved chow spots and search for chow by cusine.
+##### My Favorite Chow Spots - Listed here are all the vendors a user has saved. Users can see if the vendor is open (a green dot means open a red dot means closed), what rating they have given the vendor, and unfavorite the vendor.
+##### Search For Chow - Users can search for new chow by cuisine type. Here we can see someone is searching for coffee and listed below are all the spots that serve coffee. 
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/homepage.png">
 
 ## Vendors List Page
-##### This page lists all the vendors on campus. The tab for this page is located in the top menu.
+##### This vendors list page shows all the vendors on campus. The tab for this page is located in the top menu.
 ##### A green dot indicates the vendor is open. A red dot indicates the vendor is closed.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/vendorlist.png">
 
 ## Map
-##### This page shows the location for all the vendors. The tab for this page is located in the top menu.
+##### This map shows the location for all the vendors. The tab for this page is located in the top menu.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/map.png">
 
 ## Vendor Page
-#### Each vendor has their own page that shows you the vendor's rating, description, location, hours of operation, and menu. 
-#### The Add to Favorites button located below the vendor's name will add this vendor to your 'My Favorite Chow Spots' list on your homepage.
-#### You can also leave a rating for the vendor on the bottom left of the page.
+#### Each vendor has their own page that shows the vendor's rating, description, location, hours of operation, and menu. 
+#### The Add to Favorites button located below the vendor's name will add this vendor to the user's 'My Favorite Chow Spots' list on their homepage.
+#### Users can leave a rating for the vendor on the bottom left of the page.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/vendorhome.png">
 
 # Developer Guide
+1. Test
+2. Test
+3. Test
 
 # Initial User Study
 
