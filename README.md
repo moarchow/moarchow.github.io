@@ -37,6 +37,12 @@ There are many food choices on UH Manoa's campus and knowing what each vendor se
 #### Users can leave a rating for the vendor on the bottom left of the page.
 <img class="ui medium right floated image" src="https://raw.githubusercontent.com/moarchow/moarchow.github.io/master/images/milestone3/vendorhome.png">
 
+# Initial User Study
+Five current University of Hawaii students and one person who use to attend there were recruited to use our site. Though not in person, the recruiter did a one on one talk/chat through an online chat system to what they could do in our site. After a one on one chat with each one, each person gave back a feedback about the website.
+
+Overall, they all said it was a good app. Title is creative, the app is pretty simple and clean to the point where anyone would be able to use. The food items and prices are accurate as well as hours of operation. One person liked . However, the negative feedback was a little diverse. One suggested that we remove the descriptions of the vendor in the map page so that it is easier to see the other locations. A couple said being unable to comment to go along with the ratings was a bummer. A person said that not having a search bar to type in what to search instead of having a fixed dropdown menu. The general negative feedback is that there is not enough aesthetic appeal to the website aside from the landing page. One suggested maybe having a picture of the store front for each vendor so people know what to look for when they reach to the location. Another said to have more of an aesthetic appeal so people feel captivated while browsing vendors and their menus. Other than that, they all said it is a pretty solid app.</p>
+
+
 # Developer Guide
 1. Install Meteor : https://www.meteor.com/
 2. Install NodeJs : https://nodejs.org/en/
